@@ -15,3 +15,5 @@ credits to "Code for Interview" for teaching me how to do this.
 
 ## Image
 ![image](https://github.com/aperswal/notepad_clone/assets/48163063/40480526-ab2d-40a2-8612-98975f892996)
+![image](https://github.com/aperswal/notepad_clone/assets/48163063/2ab86dba-db5a-4093-b0e0-ffc1a1663ede)
+![image](https://github.com/aperswal/notepad_clone/assets/48163063/d3b0c0af-34c4-417d-94d2-b70cac9ef3d2)
